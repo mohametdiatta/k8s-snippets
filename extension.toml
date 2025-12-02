@@ -1,0 +1,8 @@
+id = "k8s-snippets"
+name = "Kubernetes Snippets"
+version = "0.1"
+schema_version = 1
+authors = ["Mohamet Diatta"]
+description =  "A fork of the (VScode Kubernetes Snippets)High quality Code Snippets that help you authoring YAML scripts for Kubernetes."
+repository = "https://github.com/mohametdiatta/k8s-snippets"
+snippets = "./snippets/yaml.json"
