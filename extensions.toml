@@ -1,0 +1,3 @@
+[k8s-snippets]
+submodule = "extensions/k8s-snippets"
+version = "0.0.1"
